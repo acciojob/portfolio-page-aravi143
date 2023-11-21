@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+#box{
+	border-style:solid;
+	border-color:green;
+	width:500px;
+	padding:10px;
+	height:400px;
+	margin:	
+}
+h1{
+	background-color:blue;
+	border-style:solid;
+}
